@@ -19,3 +19,5 @@ portal/tmp
 
 # Ignore log files
 webapp/logs/
+
+webapp/public/img/*
